@@ -15,7 +15,6 @@ uploads/
 coverage/
 .DS_Store
 .idea/
-.vscode/
 *.tgz
 .cache/
 output/
